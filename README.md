@@ -31,6 +31,10 @@
 
 ---
 
+## 🏗️ Architecture  
+
+![image](https://github.com/user-attachments/assets/64e1454e-8956-4bb3-a630-dc78c419aa3a)
+
 ## 🔗 Dependencies  
 
 This solution requires the following dependencies:  
